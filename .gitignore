@@ -1,0 +1,5 @@
+__pycache__/
+.venv/
+
+# Ignore all files in the stockfish directory
+stockfish/
