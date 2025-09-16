@@ -5,7 +5,7 @@
   <a href="https://lucasdino.github.io/assets/files/llm_chess_preprint_9-11-2025.pdf">📄 LLM Chess Preprint (PDF)</a>
 </p>
 
-![Key Takeaway](figures/scaledexperiments_takeaway.png)
+<img src="figures/scaledexperiments_takeaway.png" alt="Key Takeaway" style="background:white; padding:4px;" />
 
 This repository provides an implementation of the paper: *Reasoning Through Chess: How Reasoning Evolves from Data Through Fine-Tuning and Reinforcement Learning*.
 
@@ -26,7 +26,7 @@ Key contributions include:
 - Evaluation harness across four tasks: *Best Move, Worst Move, Predict Move, and Legal Moves*  
 - Final checkpoints and logs demonstrating strong performance relative to open-source baselines
 
-![Final Evaluation Performance](figures/final_eval_performance.png)
+<img src="figures/final_eval_performance.png" alt="Final Evaluation Performance" style="background:white; padding:4px;" />
 
 ## Repo Structure
 
