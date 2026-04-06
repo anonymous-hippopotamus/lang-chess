@@ -1,5 +1,7 @@
 # How Reasoning Evolves from Post-Training Data in Sequential Domains 
-Please refer to the public GitHub [here](https://github.com/lucasdino/lang-chess) as that is up to date. Other useful links: 
+🚨 Please refer to the public GitHub [here](https://github.com/lucasdino/lang-chess) as that is up to date. 🚨
+
+Other useful links: 
 <p align="center">
   <a href="https://huggingface.co/collections/lucasdino/llm-chess">🤗 Hugging Face Collection (Scaled Models + Data)</a> |
   <a href="https://lucasdino.github.io/assets/files/llm_chess_neurips_forlm_2025.pdf">📄 LLM Chess Preprint (PDF)</a>
